@@ -102,14 +102,15 @@ header h2{
   }
 
   .logo {
-    max-width: 50px;
+    max-width: 50px!important;
     margin: start!important;
   }
 
   header h2 {
-    font-size: 1.1rem;
+    font-size: 1.3rem;
     font-weight: 10px;
     padding: 10px 0!important;
+    text-alignment: center!important
   }
   .main-content {
       /*margin-top: 150px;  Enough space for fixed header */
